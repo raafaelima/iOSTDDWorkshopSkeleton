@@ -1,4 +1,4 @@
-#IOS TDD Workshop: Build your first App With Tests!
+# iOS TDD Workshop: Build your App Using Tests!
 
 Skeleton of iOS TDD Workshop with Quick and Nimble
 
@@ -19,13 +19,7 @@ The aim of the game is to count up as high as you can before time runs out, star
 
 The app is available to download free from the [App Store](https://itunes.apple.com/us/app/bizzfuzz/id1065354200?mt=8) made by [Yvette Cook](https://github.com/yvettecook) and we will be building a very similar game. You can and should try it out before the Workshop.
 
-Key Features 🤖:
-------
-- [ ] Build FizzBuzz views and Controllers
-- [ ] Build the Logic of the game
-- [ ] Add HighScore counter
-
-Skills you will Learn 🎉:
+What you will Learn 🎉:
 ------
 - Build/Run an app with Xcode
 - Build/Run Unit and UI Tests with Quick and Nimble with XCode
@@ -40,5 +34,7 @@ Learn More 🤓:
 ------
 To prepare for the workshop or to keep learning swift after it we recommend this guides
 
-- [RayWanderlich Basics swift using Playgrounds](https://www.raywenderlich.com/143771/swift-tutorial-part-1-expressions-variables-constants)
-- [HackingWithSwift Basics Guide from installing swift to Variables](https://www.hackingwithswift.com/read/0/1/how-to-install-xcode-and-create-a-playground)
+- [What is TDD?](https://medium.com/mobile-quality/test-driven-development-d16fd216d45c)
+- [TDD using Quick & Nimble](https://medium.com/inloopx/tdd-using-quick-nimble-244b14b09e3d)
+- [iOS Architecture Patterns](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52)
+- [8 Observations On Test Driven Development](https://medium.com/@solidi/8-observations-on-test-driven-development-a9b5144f868)
